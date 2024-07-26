@@ -1,58 +1,28 @@
-LapTimes_seconds	LapNumber	Stint	Sector1Time	Sector2Time	Sector3Time	SpeedI1	SpeedI2	SpeedFL	SpeedST	Compound	TyreLife	TrackStatus	Position	Location	Pit	PitCompound
-107.6	1	1	00:18.0	00:44.7	00:42.4	278	301	216	298	MEDIUM	4	2	3	Abu Dhabi	0	
-103.3	2	1	00:18.0	00:43.9	00:41.3	276	284	214	295	MEDIUM	5	1	3	Abu Dhabi	0	
-103.2	3	1	00:18.1	00:43.9	00:41.3	272	285	214	293	MEDIUM	6	1	3	Abu Dhabi	0	
-103.3	4	1	00:18.0	00:44.0	00:41.3	271	283	215	293	MEDIUM	7	1	3	Abu Dhabi	0	
-103.5	5	1	00:18.1	00:44.1	00:41.3	270	282	215	291	MEDIUM	8	1	3	Abu Dhabi	0	
-103.8	6	1	00:18.2	00:44.1	00:41.5	267	287	215	291	MEDIUM	9	1	3	Abu Dhabi	0	
-103.3	7	1	00:18.0	00:44.1	00:41.2	274	285	214	292	MEDIUM	10	1	3	Abu Dhabi	0	
-103.2	8	1	00:18.2	00:43.9	00:41.1	270	286	215	291	MEDIUM	11	1	3	Abu Dhabi	0	
-103.3	9	1	00:18.1	00:44.0	00:41.2	271	283	215	291	MEDIUM	12	1	3	Abu Dhabi	0	
-103.4	10	1	00:18.0	00:44.1	00:41.3	269	285	214	292	MEDIUM	13	1	3	Abu Dhabi	0	
-103.4	11	1	00:18.1	00:44.1	00:41.3	274	282	214	293	MEDIUM	14	1	3	Abu Dhabi	0	
-103.3	12	1	00:18.0	00:44.0	00:41.2	273	288	216	295	MEDIUM	15	1	3	Abu Dhabi	0	
-103	13	1	00:18.0	00:44.1	00:40.9	272	285	215	291	MEDIUM	16	1	2	Abu Dhabi	0	
-102.9	14	1	00:18.0	00:44.1	00:40.8	276	284	216	289	MEDIUM	17	1	2	Abu Dhabi	0	
-103.1	15	1	00:18.0	00:44.2	00:40.8	273	284	216	287	MEDIUM	18	1	2	Abu Dhabi	0	
-102.8	16	1	00:18.0	00:44.1	00:40.8	270	282	215	289	MEDIUM	19	1	2	Abu Dhabi	0	
-103.1	17	1	00:18.0	00:44.1	00:40.9	270	282	215	288	MEDIUM	20	1	2	Abu Dhabi	0	
-103.2	18	1	00:18.0	00:44.1	00:41.1	270	284	217	289	MEDIUM	21	1	2	Abu Dhabi	0	
-103.2	19	1	00:18.1	00:44.2	00:40.9	269	282	217	288	MEDIUM	22	1	2	Abu Dhabi	0	
-103	20	1	00:18.0	00:44.1	00:41.0	272	281	216	290	MEDIUM	23	1	2	Abu Dhabi	0	
-103	21	1	00:18.0	00:44.1	00:41.0	271	285	216	290	MEDIUM	24	1	2	Abu Dhabi	0	
-103.2	22	1	00:17.9	00:44.2	00:41.0	270	281	215	290	MEDIUM	25	1	2	Abu Dhabi	0	
-103.1	23	1	00:17.9	00:44.1	00:41.0	272	282	215	290	MEDIUM	26	1	2	Abu Dhabi	0	
-103.3	24	1	00:18.0	00:44.0	00:41.3	271	283	215	294	MEDIUM	27	1	2	Abu Dhabi	0	
-105.2	25	1	00:17.9	00:44.1	00:43.2	273	288	220	294	MEDIUM	28	1	2	Abu Dhabi	1	HARD
-122.3	26	2	00:37.7	00:43.3	00:41.3	273	288	221	291	HARD	1	1	3	Abu Dhabi	0	
-102.9	27	2	00:18.0	00:43.6	00:41.3	274	289	219	296	HARD	2	1	3	Abu Dhabi	0	
-101.7	28	2	00:17.7	00:43.7	00:40.3	276	284	219	294	HARD	3	1	3	Abu Dhabi	0	
-101.7	29	2	00:17.8	00:43.5	00:40.4	281	290	219	296	HARD	4	1	3	Abu Dhabi	0	
-101.9	30	2	00:17.7	00:43.6	00:40.7	272	285	219	295	HARD	5	1	3	Abu Dhabi	0	
-102.5	31	2	00:17.6	00:43.3	00:41.7	278	301	218	299	HARD	6	1	3	Abu Dhabi	0	
-102.6	32	2	00:17.7	00:44.0	00:40.9	281	299	219	345	HARD	7	1	2	Abu Dhabi	0	
-102	33	2	00:17.8	00:43.7	00:40.5	272	282	219	291	HARD	8	1	2	Abu Dhabi	0	
-101.7	34	2	00:17.7	00:43.6	00:40.3	271	283	220	292	HARD	9	1	2	Abu Dhabi	0	
-102.3	35	2	00:17.9	00:43.6	00:40.7	272	289	219	288	HARD	10	1	2	Abu Dhabi	0	
-102.6	36	2	00:17.8	00:43.8	00:40.9	274	279	219	287	HARD	11	1	2	Abu Dhabi	0	
-101.8	37	2	00:17.9	00:43.5	00:40.4	275	281	220	290	HARD	12	1	2	Abu Dhabi	0	
-101.6	38	2	00:17.8	00:43.6	00:40.2	277	288	220	290	HARD	13	1	2	Abu Dhabi	0	
-101.5	39	2	00:17.7	00:43.6	00:40.2	273	285	220	291	HARD	14	1	2	Abu Dhabi	0	
-101.8	40	2	00:17.9	00:43.5	00:40.3	275	281	220	291	HARD	15	1	2	Abu Dhabi	0	
-101.8	41	2	00:17.7	00:43.6	00:40.5	276	285	219	293	HARD	16	1	2	Abu Dhabi	0	
-101.9	42	2	00:17.7	00:43.5	00:40.7	280	293	218	296	HARD	17	1	2	Abu Dhabi	0	
-101.8	43	2	00:17.8	00:43.5	00:40.5	281	292	219	319	HARD	18	1	2	Abu Dhabi	0	
-102	44	2	00:17.8	00:43.6	00:40.7	274	293	219	295	HARD	19	1	2	Abu Dhabi	0	
-102	45	2	00:17.7	00:43.5	00:40.8	276	286	221	296	HARD	20	1	2	Abu Dhabi	0	
-101.7	46	2	00:17.7	00:43.8	00:40.3	268	292	220	292	HARD	21	1	2	Abu Dhabi	0	
-101.6	47	2	00:17.7	00:43.5	00:40.4	276	286	221	294	HARD	22	1	2	Abu Dhabi	0	
-101.3	48	2	00:17.7	00:43.3	00:40.3	277	297	220	296	HARD	23	1	2	Abu Dhabi	0	
-101.8	49	2	00:17.7	00:43.4	00:40.7	279	294	217	303	HARD	24	1	2	Abu Dhabi	0	
-101.3	50	2	00:17.7	00:43.3	00:40.3	277	304	220	293	HARD	25	1	2	Abu Dhabi	0	
-101.8	51	2	00:17.6	00:43.7	00:40.5	275	293	218	297	HARD	26	1	2	Abu Dhabi	0	
-101.7	52	2	00:17.5	00:43.5	00:40.8	281	299	217	301	HARD	27	1	2	Abu Dhabi	0	
-101.8	53	2	00:17.6	00:43.3	00:40.9	287	306	220	324	HARD	28	1	2	Abu Dhabi	0	
-101.6	54	2	00:17.5	00:43.6	00:40.5	278	303	221	295	HARD	29	1	2	Abu Dhabi	0	
-101.1	55	2	00:17.6	00:43.5	00:40.1	275	291	218	291	HARD	30	1	2	Abu Dhabi	0	
-![image](https://github.com/user-attachments/assets/fd628618-94c8-43f7-b228-103e3a881e6f)
+In a business context, a cohort refers to a group of individuals or entities that share a common characteristic or experience 
+within a defined period. This concept is often used in various areas such as marketing, sales, product development, and human 
+resources to analyze and understand behaviors, trends, and outcomes over time. Here are a few examples of how cohorts can be 
+used in business:
 
+Customer Cohorts: Groups of customers who made their first purchase during the same time period (e.g., a month or a quarter). 
+    Analyzing customer cohorts helps businesses understand customer retention, lifetime value, and purchasing patterns.
+
+Employee Cohorts: Groups of employees who were hired during the same period. This can help HR departments analyze employee 
+    retention, performance, and career progression.
+
+Product Cohorts: Groups of products that were launched at the same time. This can be useful for understanding product 
+    performance, customer adoption rates, and the impact of marketing efforts.
+
+Marketing Cohorts: Groups of users who responded to the same marketing campaign or joined through the same channel. This 
+    analysis helps in evaluating the effectiveness of different marketing strategies and channels.
+
+1. The first step is to define the cohorts based on a specific characteristic or event. For example, in an e-commerce platform, cohorts could be defined based on the month of a user’s first purchase.
+2. Gather relevant data for analysis.
+3. Determine the time intervals you want to analyze.
+4. Group users into cohorts based on the defined characteristic or event.
+5. Choose the key performance metrics you want to analyze.
+6. Calculate the chosen metrics for each cohort over the specified time periods.
+7. Create visualizations to present your findings effectively.
+
+Please do ⭐ the repository, if you like this.😊
+
+Thank you ❤
